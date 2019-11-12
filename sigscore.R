@@ -6,9 +6,9 @@ signature = args[1]
 exprs = args[2]
 genenames = args[3]
 
-signature = 'sig/allsigs.txt'
-exprs = 'data/all_data.mtx'
-genenames = 'data/genenames.csv'
+# signature = 'sig/allsigs.txt'
+# exprs = 'data/all_data.mtx'
+# genenames = 'data/genenames.csv'
 
 merged_exprs = readMM(exprs)
 merged_exprs = t(merged_exprs)

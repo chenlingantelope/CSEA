@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ba72b02-fbed-4073-9c19-68eb1e6b9aa2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CSEA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSEA.py" beforeDir="false" afterPath="$PROJECT_DIR$/CSEA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sigscore.R" beforeDir="false" afterPath="$PROJECT_DIR$/sigscore.R" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,10 +17,10 @@
       <file leaf-file-name="CSEA.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSEA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="16" />
+            <state relative-caret-position="525">
+              <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
               <folding>
-                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,6 +34,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>save_path</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,10 +60,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-253" />
-    <option name="y" value="-1080" />
+    <option name="x" value="1280" />
+    <option name="y" value="-400" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="1200" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -111,7 +117,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-253" y="-1080" width="1920" height="1080" extended-state="0" />
+    <frame x="1280" y="-400" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -119,10 +125,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.3691542" />
+      <window_info anchor="bottom" id="Python Console" visible="true" weight="0.32977778" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="right" id="Remote Host" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16453674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16453674" />
       <window_info anchor="right" id="R Packages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" />
@@ -149,10 +155,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CSEA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="16" />
+        <state relative-caret-position="525">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
